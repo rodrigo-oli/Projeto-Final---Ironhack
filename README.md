@@ -6,7 +6,9 @@
 ## Objetivos:
 
 •	Visualizar dados por mapa e linha do tempo
+
 •	Indicar uma projeção de abundância das espécies
+
 •	Qual a interferência do homem na análise abundância 
 
 ## Ferramentas:
