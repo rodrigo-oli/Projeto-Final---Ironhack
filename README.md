@@ -1,4 +1,4 @@
-# :bird: Análise de aves no Brasil
+# :bird: Análise de Aves no Brasil
 
 ![espécies_observadas](https://user-images.githubusercontent.com/42010810/115964661-f3440580-a4fb-11eb-9a85-dd2e6671cd60.gif)
 
